@@ -1,0 +1,18 @@
+.css-block {
+	
+	width: 160px;
+	height: 90px;
+	padding: 15px;
+	border: 1px solid #000;
+	margin: 20px;
+	background-color: bisque;
+	
+	align-self: start;
+}
+
+.new_b {
+	font-family: serif;
+	font-family: fantasy;
+	color: blue;
+}
+
