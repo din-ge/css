@@ -23,3 +23,6 @@
 10. შაბლონი
 
 11. ფართობითი პოზიციონირება
+
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background
